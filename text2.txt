@@ -1,6 +1,6 @@
 this is mage for new1 branch
-<<<<<<< Updated upstream
+
 this is comman test
-=======
+
 this is stach cmd
->>>>>>> Stashed changes
+
