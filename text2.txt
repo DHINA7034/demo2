@@ -1,1 +1,2 @@
 this is mage for new1 branch
+this is comman test
